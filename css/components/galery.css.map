@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/galery.scss","components/galery.css"],"names":[],"mappings":"AAAA;EACI,mDAAA;ACCJ","file":"components/galery.css","sourcesContent":["body{\r\n    background: url(../img/svg/bgd.svg) 100% 100% /cover;\r\n}","body {\n  background: url(../img/svg/bgd.svg) 100% 100%/cover;\n}"]}
